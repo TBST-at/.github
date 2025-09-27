@@ -4,7 +4,7 @@
 
 ## 🛠️ Projects
 
-### TBST Forms
+### TBST Forms - Angular 20
 - **🕒 Started:** *2025-09-27*
 - **📦 Package:** `@tbst/forms` (pre-alpha, Angular 20+)
 - **🎯 Purpose:** Lightweight, fully themeable form controls (Buttons, Inputs & Pickers) that adapt to any brand in seconds.
