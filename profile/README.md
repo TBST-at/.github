@@ -1,5 +1,3 @@
-# TBST
-
 ## 🔍 Organisation Details
 - **🕒 Started:** *19.09.2025*
 - **🌍 Domain:** [tbst.at](https://tbst.at)
