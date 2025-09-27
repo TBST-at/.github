@@ -1,5 +1,4 @@
-## 🔍 Organisation Details
-- **🕒 Started:** *19.09.2025*
+## 🔍 Details
 - **🌍 Domain:** [tbst.at](https://tbst.at)
 - **🛠️ Currently working at:** tbst-forms
 
