@@ -1,6 +1,6 @@
 ## 🔍 Details
 - **🌍 Domain:** [TBST.at](https://tbst.at)
-- **🛠️ Currently working at:** TBST-CLI Template Website Framework
+- **🛠️ Currently working on:** TBST-CLI Template Website Framework
 
 ## 🛠️ Projects
 
