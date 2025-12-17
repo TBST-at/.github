@@ -4,13 +4,8 @@
 
 ## 🛠️ Projects
 
-### TBST Forms - Angular 20
-- **🕒 Started:** *2025-09-27*
-- **📦 Package:** `@tbst/forms` (pre-alpha, Angular 20+)
-- **🎯 Purpose:** Lightweight, fully themeable form controls (Buttons, Inputs & Pickers) that adapt to any brand in seconds.
-- **💡 Why:** Let devs be productive **without design friction** — clean APIs, CSS-variable design tokens, and first-class support for Standalone Components or NgModules.
-- **⚙️ Tech:** Angular 20+, Standalone Components, CSS Variables (Design Tokens), Partial Compilation
-- **🚀 Quickstart:**
-  ```ts
-  console.log('In Progress..');
-  ```
+### TBST-CLI for Template Website - Angular 21
+- **🕒 Started:** *17-12-2025*
+- **🎯 Purpose:** Own custom "framework" to create template websites in seconds.
+- **💡 Why:** Speed up the process of making multiple wewbsites.
+- **🧰 How to use:** Enter tbst create and check which modules you want in your website (e.g. blog, forum, shop - essentials are added from base as standard like impressum, hompeage etc)
